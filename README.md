@@ -1,5 +1,4 @@
 
----
 
 **Project Title:**  
 **TasteTango: Your Ultimate Guide to Local Cuisine**
